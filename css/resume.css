@@ -1,0 +1,51 @@
+p {
+    font-size: 20px;
+}
+
+.subtext {
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(62, 118, 135);
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 20px;
+}
+h4 {
+    font-size: 15px;
+}
+
+ul {
+    font-size: 30px;
+    color:rgb(62, 118, 135)
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: rgb(205, 208, 209);
+    padding: .5cm;
+}
+img{
+    float: right;
+    border-radius: 50%;
+}
+.youtubetext {
+    font-size: 25px;
+    color:rgb(62, 118, 135)
+}
+.tableautext {
+    font-size: 22px;
+    color:rgb(59, 97, 109)
+}
